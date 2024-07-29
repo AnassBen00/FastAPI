@@ -1,10 +1,9 @@
 # Project Overview
 
-The goal of this project is to provide a practical example of using Apache Kafka within a FastAPI application. By following this project, you will gain a better understanding of how to implement a robust messaging system using Kafka, which can be crucial for building applications that require real-time data processing and reliable message delivery.
-
+The goal of this project is to provide a practical example of using Apache Kafka within a FastAPI application. This project, helps understanding how to implement a messaging system using Kafka.
 # Technologies Used
 
-    FastAPI: A modern web framework for building APIs with Python 3.7+ based on standard Python type hints.
+    FastAPI: A framework for building APIs with Python 3+.
     Apache Kafka: A distributed event streaming platform.
     Docker: For setting up the Kafka, Zookeeper, and Kafdrop instances.
     Postman: For testing the API endpoints.
